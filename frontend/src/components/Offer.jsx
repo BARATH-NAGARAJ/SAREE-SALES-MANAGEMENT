@@ -140,7 +140,7 @@ import React, { useState, useEffect } from 'react';
 
 const Offer = () => {
   // Set your target end date and time here (YYYY-MM-DDTHH:MM:SS format)
-  const targetDate = new Date("2025-05-15T18:30:00");
+  const targetDate = new Date("2025-05-25T18:30:00");
 
   const calculateTimeLeft = () => {
     const now = new Date();
