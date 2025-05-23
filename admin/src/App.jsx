@@ -8,7 +8,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 export default function App() {
-  const url = "http://localhost:4000";
+  const url = "https://saree-sales-management-backend.onrender.com";
 
   return (
     <BrowserRouter>
